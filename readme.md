@@ -46,8 +46,8 @@ To run Typing Speed Game locally:
  1. Begin typing the displayed text as it appears. The timer will begin once you start typing.
 
  2. If you make a mistake, use the backspace button to undo it or continue typing.
+ wibsite link https://ahmedislam55.github.io/Typing-Speed-Game/
+ 4. Try to finish typing the text before time runs out.
 
- 3. Try to finish typing the text before time runs out.
-
- 4. Click the "Try Again" button to play again with a different text!
+ 5. Click the "Try Again" button to play again with a different text!
 
